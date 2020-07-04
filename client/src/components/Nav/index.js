@@ -4,7 +4,7 @@ function Nav() {
   return (
     <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
       <a className="navbar-brand" href="/">
-        Starcraft 2 Build Order Repo
+        Starcraft 2 Build Orders
       </a>
     </nav>
   );
